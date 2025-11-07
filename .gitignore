@@ -3,6 +3,9 @@ data/
 archive/
 *.csv
 *.jsonl
+data/
+*.csv
+*.jsonl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
